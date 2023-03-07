@@ -1,0 +1,6 @@
+Perguntar a temperatura 
+Leia celsius 
+Leia fahrenheit 
+	Se estiver em celsius (C) transforme para fahrenheit (F) C * (1.8) + 32 = F
+	Se estiver em Fahrenheit (F) transforme para Celsius (C) F - 32 / 1.8 = C
+imprima na tela a coversão 
