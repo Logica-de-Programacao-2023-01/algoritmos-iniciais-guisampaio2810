@@ -1,0 +1,4 @@
+1. Ler o priemiro numero x 
+2. ler o segundo numero y
+3. soma = x+y
+4. imprimir na tela a variavel soma
