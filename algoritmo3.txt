@@ -1,0 +1,6 @@
+peça a lista de termos
+leia a lista de x,y,z
+soma = x+y+z
+escreva a soma
+então faça soma/número de termos da lista
+fim
