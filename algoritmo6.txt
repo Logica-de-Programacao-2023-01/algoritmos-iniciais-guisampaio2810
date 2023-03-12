@@ -1,0 +1,7 @@
+leia x
+leia potencia
+variavél do resultado = x
+para todos os valores entre 1 e potencia, faça:
+resultado = resultado * x
+escreva resultado
+fim
